@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LolliAPP</string>
+
+    <string name="Datos">Datos</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Edad">Fecha de Nacimiento:</string>
+    <string name="Genero">Genero:</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">Activity2</string>
+</resources>
